@@ -82,4 +82,4 @@ Os dois arquivos `.csv` devem estar na mesma pasta do notebook.
 
 ## Autor
 
-Mateus Costa — Ciência da Computação (UCB) · Setor de PCP, Bolos do Flávio.
+Jayme Pereira — Ciência da Computação (UCB) · Setor de TI, Bolos do Flávio.
